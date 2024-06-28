@@ -3,5 +3,5 @@
 
 ### THIS REPO IS UNDER UPGRADE
 - Fork Repo As You Await.
-- **[CLICK HERE](https://web.giftedtechnexus.co.ke/bots/giftedmd/deploy/heroku) to Deploy Version 4.0.0**
+- **[CLICK HERE](https://web.giftedtechnexus.co.ke/bots/giftedmd/deploy/platforms/heroku) to Deploy Version 4.0.0**
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
