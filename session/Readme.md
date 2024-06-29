@@ -1,0 +1,2 @@
+- Upload your creds.json file here.
+- Don't worry it'll replace the empty creds.json file
