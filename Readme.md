@@ -44,7 +44,9 @@
 
 ### CREDITS:
 - MH MODS OFC
-- ETHIX-SID
+- ETHIX-XSID
+- BOT USERS
+- MYSELF
 
 ### FOR UPDATES:
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
