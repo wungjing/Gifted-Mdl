@@ -33,14 +33,15 @@
 </details>
 
 - Then Upload your creds.json file in the session folder
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## HEROKU DEPLOYMENT:
 - After you've uploaded your creds.json copy paste the url below by replacing your username with ***"mouricedevs"*** then open it in your browser where you're logged in to heroku, set variables as you wish then deploy:
   ```
   https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
   ```
-
-- **EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM
 
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
+- Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.
 - **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
