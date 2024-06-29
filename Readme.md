@@ -42,6 +42,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM
 
+### CREDITS:
+- MH MODS OFC
+- ETHIX-SID
+
+### FOR UPDATES:
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
 - Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.
 - **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
