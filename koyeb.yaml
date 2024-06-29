@@ -16,7 +16,6 @@ env:
   AUTO_REJECT_CALLS: false
   DEPLOYMENT_PLATFORM: koyeb
   KOYEB_APP_NAME: Gifted-Md
-  SESSION_ID: 
 
 regions:
   - fra
