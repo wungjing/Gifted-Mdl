@@ -19,14 +19,23 @@
 
 <a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/FORK%20REPO%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 
-## GET YOUR CREDS.JSON FILE: 
+## GET YOUR CREDS.JSON FILE VIA: 
 
+<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/pair"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
 
-<a href="https://github.com/mouricedevs/creds-paircode"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
+<a href="https://replit.com/@mouriceonyango0/Giftedv5-PairCode?v=1"><img src="https://img.shields.io/badge/REPLIT%20PAIRING-blue" alt="Pairing Code" width="150"></a>
+
+<a href="https://github.com/mouricedevs/creds-paircode#Run%20On%20Termux"><img src="https://img.shields.io/badge/TERMUX%20PAIRING-red" alt="Pairing Code" width="150"></a>
+
+<a href="https://github.com/codespaces/new/mouricedevs/Creds-PairCode?skip_quickstart=true&machine=standardLinux32gb&repo=821208415&ref=main&geo=EuropeWest"><img src="https://img.shields.io/badge/USING%20CODESPACE-silver" alt="Pairing Code" width="150"></a>
 
 - Then Upload your creds.json file in the session folder
 
 ## HEROKU DEPLOYMENT:
+- After you've uploaded your creds.json copy paste the url below by replacing your username with ***"mouricedevs"*** then open it in your browser where you're logged in to heroku, set variables as you wish then deploy:
+  ```
+  https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
+  ```
 
 
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
