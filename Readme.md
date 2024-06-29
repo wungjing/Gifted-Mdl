@@ -14,12 +14,16 @@
   
 ## SETUP:
 
-**CLICK HERE 👇 TO FORK(A MUST)**
+**👇FORK REPO(A MUST)**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
 - This is essential for you to obtain an editable repo to upload your creds.json file
 
 <a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/FORK%20REPO%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+</details>
 
-**GET YOUR CREDS.JSON FILE**
+**👇GET YOUR CREDS.JSON FILE**
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
@@ -34,21 +38,38 @@
 
 - Then Upload your creds.json file in the session folder
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## HEROKU DEPLOYMENT:
+
+**👇HEROKU DEPLOYMENT:**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
 - After you've uploaded your creds.json copy paste the url below by replacing your username with ***"mouricedevs"*** then open it in your browser where you're logged in to heroku, set variables as you wish then deploy:
+  
   ```
   https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
   ```
+</details>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ### EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM
 
-### CREDITS:
+**👇CREDITS:**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
 - MH MODS OFC
 - ETHIX-XSID
 - BOT USERS
 - MYSELF
+</details>
 
-### FOR UPDATES:
+**👇FOR UPDATES:**
+
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
 - Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.
 - **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
+</details>
