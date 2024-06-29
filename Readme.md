@@ -37,6 +37,7 @@
   https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
   ```
 
+- **EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM**
 
 - **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
 - **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
