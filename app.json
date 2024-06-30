@@ -8,10 +8,10 @@
   "success_url": "/gifted/",
   "stack": "heroku-24",
   "env": { 
-      "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Must start with Gifted~",
-      "required": true,
-      "value": "private"
+"SESSION_ID": {
+      "description": "Put your SESSION_ID here. Must start with Gifted~ Leave blank if you're using creds.json",
+      "required": false,
+      "value": ""
     },
     "MODE": {
       "description": "Put Mode either public or private",
