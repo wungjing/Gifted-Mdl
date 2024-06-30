@@ -24,6 +24,16 @@
 <a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/FORK%20REPO%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
 
+### LINK WITH WHATSAPP
+**👇GET YOUR SESSION ID**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+
+<a href="https://replit.com/@mouriceonyango0/Gifted#index.js"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
+</details>
+
+**OR**
+
 **👇GET YOUR CREDS.JSON FILE**
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
