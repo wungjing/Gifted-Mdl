@@ -25,22 +25,21 @@
 </details>
 
 ### LINK WITH WHATSAPP
-**👇GET YOUR SESSION ID**
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
-<a href="https://replit.com/@mouriceonyango0/Gifted#index.js"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
+<details>
+<summary>GET YOUR SESSION_ID</summary>
+
+<a href="https://replit.com/@mouriceonyango0/Gifted#index.js"><img src="https://img.shields.io/badge/REPLIT%20PAIRCODE-green" alt="Pairing Code" width="150"></a>
 </details>
 
 **OR**
 
-**👇GET YOUR CREDS.JSON FILE**
 <details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+<summary>GET YOUR CREDS.JSON FILE</summary>
+
+<a href="https://replit.com/@mouriceonyango0/Giftedv5-PairCode?v=1"><img src="https://img.shields.io/badge/REPLIT%20PAICODE-blue" alt="Pairing Code" width="150"></a>
 
 <a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/pair"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
-
-<a href="https://replit.com/@mouriceonyango0/Giftedv5-PairCode?v=1"><img src="https://img.shields.io/badge/REPLIT%20PAIRING-blue" alt="Pairing Code" width="150"></a>
 
 <a href="https://github.com/mouricedevs/creds-paircode#Run%20On%20Termux"><img src="https://img.shields.io/badge/TERMUX%20PAIRING-red" alt="Pairing Code" width="150"></a>
 
@@ -50,9 +49,9 @@
 - Then Upload your creds.json file in the session folder
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**👇HEROKU DEPLOYMENT:**
+### HEROKU DEPLOYMENT:
 <details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+<summary>CREDS.JSON DEPLOY</summary>
   
 - After you've uploaded your creds.json copy paste the url below by replacing your username with ***"mouricedevs"*** then open it in your browser where you're logged in to heroku, set variables as you wish then deploy:
   
@@ -61,6 +60,12 @@
   ```
 </details>
 
+<details>
+<summary>SESSION_ID DEPLOY</summary>
+<a href="https://web.giftedtechnexus.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+</details>
+
+  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM
