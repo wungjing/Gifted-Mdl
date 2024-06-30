@@ -21,7 +21,7 @@
   
 - This is essential for you to obtain an editable repo to upload your creds.json file
 
-<a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/FORK%20REPO%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
 
 ### LINK WITH WHATSAPP
@@ -29,7 +29,7 @@
 <details>
 <summary>GET YOUR SESSION_ID</summary>
 
-<a href="https://replit.com/@mouriceonyango0/Gifted#index.js"><img src="https://img.shields.io/badge/REPLIT%20PAIRCODE-green" alt="Pairing Code" width="150"></a>
+<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 </details>
 
 **OR**
@@ -37,13 +37,8 @@
 <details>
 <summary>GET YOUR CREDS.JSON FILE</summary>
 
-<a href="https://replit.com/@mouriceonyango0/Giftedv5-PairCode?v=1"><img src="https://img.shields.io/badge/REPLIT%20PAICODE-blue" alt="Pairing Code" width="150"></a>
+<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
 
-<a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/pair"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
-
-<a href="https://github.com/mouricedevs/creds-paircode#Run%20On%20Termux"><img src="https://img.shields.io/badge/TERMUX%20PAIRING-red" alt="Pairing Code" width="150"></a>
-
-<a href="https://github.com/codespaces/new/mouricedevs/Creds-PairCode?skip_quickstart=true&machine=standardLinux32gb&repo=821208415&ref=main&geo=EuropeWest"><img src="https://img.shields.io/badge/USING%20CODESPACE-silver" alt="Pairing Code" width="150"></a>
 </details>
 
 - Then Upload your creds.json file in the session folder
@@ -62,7 +57,7 @@
 
 <details>
 <summary>SESSION_ID DEPLOY</summary>
-<a href="https://web.giftedtechnexus.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+<a href="https://web.giftedtechnexus.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/CLICK%20HERE-red" alt="Pairing Code" width="150"></a>
 </details>
 
   
