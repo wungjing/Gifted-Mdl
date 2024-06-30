@@ -19,7 +19,7 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- This is essential for you to obtain an editable repo to upload your creds.json file
+- This is essential for you to obtain an editable repo to **[upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file
 
 <a href="https://github.com/mouricedevs/gifted-md/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
 </details>
@@ -28,8 +28,9 @@
 
 <details>
 <summary>GET YOUR SESSION_ID</summary>
-
 <a href="https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+
+- Session ID must start with **Gifted~** and is 15 characters in length.
 </details>
 
 **OR**
@@ -41,14 +42,14 @@
 
 </details>
 
-- Then Upload your creds.json file in the session folder
+- Then **[Upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file in the **[session folder](https://github.com/mouricedevs/Gifted-Md/tree/main/session)**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### HEROKU DEPLOYMENT:
 <details>
 <summary>CREDS.JSON DEPLOY</summary>
   
-- After you've uploaded your creds.json copy paste the url below by replacing your username with ***"mouricedevs"*** then open it in your browser where you're logged in to heroku, set variables as you wish then deploy:
+- After you've **[uploaded your creds.json](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** copy paste the url below by replacing your username with ***"mouricedevs"*** then open it in your browser where you're logged in to heroku, set variables as you wish then deploy:
   
   ```
   https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
