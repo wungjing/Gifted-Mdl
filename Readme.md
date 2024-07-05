@@ -43,9 +43,11 @@
 </details>
 
 - Then **[Upload](https://github.com/mouricedevs/Gifted-Md/tree/main/session)** your creds.json file in the **[session folder](https://github.com/mouricedevs/Gifted-Md/tree/main/session)**
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### HEROKU DEPLOYMENT:
+### DEPLOYMENT SECTION:
+**(A) HEROKU DEPLOYMENT**
 <details>
 <summary>CREDS.JSON DEPLOY</summary>
   
@@ -63,6 +65,22 @@
 
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(B) RENDER DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://dashboard.render.com/signup"><img src="https://img.shields.io/badge/RENDER%20SIGNUP-green" alt="Render" width="150"></a>
+
+<a href="https://youtu.be/TVu8CQPPliM?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(C) GITHUB DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://youtu.be/0JiVJy7AzwI?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-yellow" alt="Github Tutorial" width="150"></a>
+</details>
 
 ### EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM
 
