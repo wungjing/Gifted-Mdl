@@ -1,8 +1,18 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> GIFTED-MD VERSION 5.0.0  </h1>
+
 <h1 align="center"> ғᴜʟʟʏ ʙᴜᴛᴛᴏɴᴇᴅ </h1>
 <p align="center"> 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<details>
+<summary>VIEW UPDATE</summary>
+  
+- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈
+
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
 <a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -12,6 +22,8 @@
 <a href="https://github.com/mouricedevs/gifted-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted-md?&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted-md?style=social"></a>
 <a href="https://github.com/mouricedevs/gifted-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted-md?label=Watching&style=social"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 ## SETUP:
 
@@ -82,6 +94,8 @@
 <a href="https://youtu.be/0JiVJy7AzwI?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-yellow" alt="Github Tutorial" width="150"></a>
 </details>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ### EVERYTHING HASN'T BEEN UPLOADED YET SO KEEP CALM
 
 **👇CREDITS:**
@@ -103,3 +117,5 @@
 - Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.
 - **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
 </details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
